@@ -285,7 +285,7 @@
 
 // CLASS DEFINITION
 // ===============================
-var QueryBuilder = function($el, options) {
+QueryBuilder = function($el, options) {
     this.init($el, options);
 };
 
